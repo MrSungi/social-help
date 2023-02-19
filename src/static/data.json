@@ -1,0 +1,459 @@
+[
+  {
+    "id": 1,
+    "text": "Psichologinė pagalba",
+    "help": [
+      {
+        "id": "1",
+        "info": "Psichologinės pagalbos galimybės Vilniuje (Vestos lentelė)",
+        "url": "DOCX"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Psichikos sveikatos problemos",
+    "help": [
+      {
+        "id": "1",
+        "info": "Vilniaus miesto psichikos sveikatos centras",
+        "url": "https://www.vasaros.lt/skyriai/"
+      },
+      {
+        "id": "2",
+        "info": "Respublikinė Vilniaus psichiatrijos ligoninė",
+        "url": "https://rvpl.lt/"
+      },
+      {
+        "id": "3",
+        "info": "Ąžuolyno klinika",
+        "url": "https://azuolynoklinika.lt/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Vaikų dienos centrai",
+    "help": [
+      {
+        "id": "1",
+        "info": "Visų vaikų dienos centrų Vilniuje sąrašas",
+        "url": "https://www.lrp.lt/data/public/uploads/2017/05/vaiku-dienos-centru-sarasas.pdf"
+      },
+      {
+        "id": "2",
+        "info": "Visuomeninė organizacija vaikų ir jaunimo dienos centras - Mūsų nameliai. Vilniaus m. sav. Vilniaus m. Gerovės g. 9-46 r.venskuniene@vcb.lt"
+      },
+      {
+        "id": "3",
+        "info": "VšĮ Sotas (Socialinės tarnystės savanoriai) Vilniaus m. sav. Vilniaus m. Mildos g. 11-3 sotas.vilnius@sotas.org"
+      },
+      {
+        "id": "4",
+        "info": "Viešoji įstaiga - OFM Mažesnieji broliai. Vilniaus m. sav. Vilniaus m. Maironio g. 10 aida@bernardinai.lt"
+      },
+      {
+        "id": "5",
+        "info": "Vilniaus arkivyskupijos Caritas Vilniaus m. sav. Vilniaus m. Odminių g. 12 viltiesangelas@vilnius.caritas.lt"
+      },
+      {
+        "id": "6",
+        "info": "Vilniaus atviras jaunimo centras - Mes. Vilniaus m. sav. Vilniaus m. V. Šopeno g. 3 info@jaunimo-centras-mes.lt"
+      },
+      {
+        "id": "7",
+        "info": "Viešoji įstaiga Vilniaus policijos klubas vaikams ir jaunimui Vilniaus m. sav. Vilniaus m. Justiniškių g. 109A info@policeclub.lt"
+      },
+      {
+        "id": "8",
+        "info": "Viešoji įstaiga - Metų laikai. Vilniaus m. sav. Vilniaus m. Liepkalnio g. 86A metulaikai@zebra.lt"
+      },
+      {
+        "id": "6",
+        "info": "Viešoji įstaiga Romų visuomenės centras Vilniaus m. sav. Vilniaus m. Metalo g. 23A drazdaiva@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Pagalba kenčiantiems nuo smurtinio elgesio",
+    "help": [
+      {
+        "id": "1",
+        "info": "Vilniaus moterų namai",
+        "url": "https://www.vmotnam.lt/juodrasciai/kriziu-centras/"
+      },
+      {
+        "id": "2",
+        "info": "Vyrų krizių centras",
+        "url": "http://vyrukrizes.lt/"
+      },
+      {
+        "id": "3",
+        "info": "VšĮ Žmogiškųjų išteklių stebėsenos ir plėtros biuras",
+        "url": "https://zispb.lt/smurtinio-elgesio-keitimo-programa/"
+      },
+      {
+        "id": "4",
+        "info": "Pagalbos vyrams centras",
+        "url": "http://www.pagalbavyrams.lt/"
+      },
+      {
+        "id": "5",
+        "info": "Vilniaus miesto psichikos sveikatos centras",
+        "url": "https://www.vasaros.lt/savizudybiu-prevencijos-skyrius/"
+      },
+      {
+        "id": "6",
+        "info": "Specializuotos kompleksinės pagalbos centras",
+        "url": "https://www.specializuotospagalboscentras.lt/"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Neplanuotas neštumas",
+    "help": [
+      {
+        "id": "1",
+        "info": "Krizinio neštumo centras",
+        "url": "https://neplanuotasnestumas.lt/en/"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Pagalba valgymo sutrikimų turintiems asmenims",
+    "help": [
+      {
+        "id": "1",
+        "info": "Vilniaus miesto psichikos sveikatos centras",
+        "url": "https://www.vasaros.lt/valgymu-sutrikimu-centras/"
+      },
+      {
+        "id": "2",
+        "info": "Ąžuolyno klinika",
+        "url": "https://azuolynoklinika.lt/"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Vaikams, turintiems ugdymosi sunkumų ir/ar raidos sutrikimų",
+    "help": [
+      {
+        "id": "1",
+        "info": "Pedagoninė - psichologinė tarnyba",
+        "url": "https://www.vilniausppt.lt/"
+      },
+      {
+        "id": "2",
+        "info": "Vaiko raidos centras",
+        "url": "http://www.vaikuligonine.lt/category/centrai/vaiko-raidos-centras/"
+      },
+      {
+        "id": "3",
+        "info": "Šeimos slėnis",
+        "url": "https://seimos-slenis.lt/"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Pagalba asmenims su negalia",
+    "help": [
+      {
+        "id": "1",
+        "info": "Dienos centras asmenims su protine negalia - Šviesa",
+        "url": "http://www.dcsviesa.lt/apie-mus/"
+      },
+      {
+        "id": "2",
+        "info": "Socialinės paslaugos asmenims su negalia",
+        "url": "https://socmin.lrv.lt/lt/naujienos/socialines-paslaugos-neigaliesiems-ir-ju-seimoms-kas-priklauso-ir-kur-kreipti"
+      },
+      {
+        "id": "3",
+        "info": "Lietuvos sutrikusios psichikos žmonių globos bendrija",
+        "url": "https://lspzgb.lt/apie-mus/"
+      },
+      {
+        "id": "4",
+        "info": "Apgyvendinimas savarankiško gyvenimo namuose",
+        "url": "https://www.valakampiuspn.lt/accommodation-in-independent-living-home-savi-namai/"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Pagalba asmenims, paleistiems iš įkalinimo įstaigų",
+    "help": [
+      {
+        "id": "1",
+        "info": "Vilniaus arkivyskupijos Caritas",
+        "url": "https://vilnius.caritas.lt/isejusiems-is-laisves-atemimo-vietu/"
+      },
+      {
+        "id": "2",
+        "info": "Kalėjimų departamentas prie LR teisingumo ministerijos (Institucijų, galinčių suteikti socialinę paramą asmenims, grižtantiems iš laisvės atėmimo vietų, sąrašas)",
+        "url": "http://www.kaldep.lt/lt/kalejimu-departamentas/probacija-ir-reintegracija-d1f8.html"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Pagalba asmenims, turintiems priklausomybę alkoholiui",
+    "help": [
+      {
+        "id": "1",
+        "info": "Respublikinis priklausomybės ligų centras",
+        "url": "https://www.rplc.lt/filialai/vilniaus-filialas/"
+      },
+      {
+        "id": "2",
+        "info": " VšĮ Vilniaus Miesto Psichikos Sveikatos Centras",
+        "url": "https://www.vasaros.lt/"
+      },
+      {
+        "id": "3",
+        "info": "Ąžuolyno klinika",
+        "url": "https://azuolynoklinika.lt/"
+      },
+      {
+        "id": "4",
+        "info": "Vilniaus miesto socialinių paslaugų centras",
+        "url": "https://www.spcentras.lt/grupes-uzsiemimai/"
+      },
+      {
+        "id": "5",
+        "info": "AA grupės",
+        "url": "https://www.aalietuvoje.org/"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Pagalba vaikams, turintiems elgesio ir emocijų sutrikimų",
+    "help": [
+      {
+        "id": "1",
+        "info": "Terapinio Ugdymo Centras - APLINK, VŠĮ",
+        "url": "https://www.tuc.lt/lt/apie-mus/"
+      },
+      {
+        "id": "2",
+        "info": "Vaiko raidos centras",
+        "url": "http://www.vaikuligonine.lt/category/centrai/vaiko-raidos-centras/"
+      },
+      {
+        "id": "3",
+        "info": "Šeimos slėnis",
+        "url": "https://seimos-slenis.lt/"
+      },
+      {
+        "id": "4",
+        "info": "Ąžuolyno klinika",
+        "url": "https://azuolynoklinika.lt/"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Pagalba asmenims ir jų artimiesiems, susidūrūsiems su suicidu",
+    "help": [
+      {
+        "id": "1",
+        "info": "Jeigu nusižudė artimasis (registracija el. Paštu)",
+        "url": "https://artimiems.lt/"
+      },
+      {
+        "id": "2",
+        "info": "Psichikos sveikatos klinika Centro poliklinikoje teikiama skubi pirminė psichologinė Pagalba gyvai ir telefonu",
+        "url": "https://www.pylimas.lt/pacientams/psichologines-pagalbos-tarnybos/"
+      },
+      {
+        "id": "3",
+        "info": "Budinčiojo gydytojo tarnyba",
+        "url": "https://www.pylimas.lt/pacientams/budincio-gydytojo-tarnyba/"
+      },
+      {
+        "id": "4",
+        "info": "Krizių įveikimo centras",
+        "url": "https://krizesiveikimas.lt/"
+      },
+      {
+        "id": "5",
+        "info": "Valstybinis psichikos sveikatos centras",
+        "url": "https://www.vpsc.lt"
+      },
+      {
+        "id": "6",
+        "info": "Savižudybių prevencija - Tu esi Pagalba teikiama telefonu, susitikus ir internetu.",
+        "url": "https://tuesi.lt/noriu-bendrauti/"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Pagalba asmenims, turintiems priklausomybę psichiką ir elgesį veikiančioms medžiagoms",
+    "help": [
+      {
+        "id": "1",
+        "info": "Respublikinis priklausomybės ligų centras",
+        "url": "https://www.rplc.lt/filialai/vilniaus-filialas/"
+      },
+      {
+        "id": "2",
+        "info": "Viešoji Įstaiga Vilniaus Miesto Psichikos Sveikatos Centras",
+        "url": "https://www.vasaros.lt/"
+      },
+      {
+        "id": "3",
+        "info": "Ąžuolyno klinika",
+        "url": "https://azuolynoklinika.lt/"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Pagalba specialistams",
+    "help": [
+      {
+        "id": "1",
+        "info": "Terapinio ugdymo centras APLINK",
+        "url": "https://www.tuc.lt/lt/paslaugos-specialistui/"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Asmenims, stokojantiems tėvystės įgūdžių",
+    "help": [
+      {
+        "id": "1",
+        "info": "Vilniaus miesto socialinių paslaugų centras",
+        "url": "https://www.spcentras.lt/grupes-uzsiemimai/"
+      },
+      {
+        "id": "2",
+        "info": "Vilniaus arkyviskupijos Caritas",
+        "url": "https://vilnius.caritas.lt/renginiai/pozityvios-tevystes-mokymai/"
+      },
+      {
+        "id": "3",
+        "info": "Vilniaus pedagoginė - psichologinė tarnyba",
+        "url": "https://www.vilniausppt.lt/mokomosios-grupes-tevams/"
+      },
+      {
+        "id": "4",
+        "info": "Vilniaus visuomenės sveikatos biuras. Nuotolinė - Vilnius sveikiau, Tėvystės mokyklėlė",
+        "url": "https://www.vilniussveikiau.lt/nuotoline-vilniau-sveikiau-tevystes-mokyklele/"
+      },
+      {
+        "id": "5",
+        "info": "VšĮ “Drąsa augti” STEP pozityvios tėvystės įgūdžių ugdymo kursai",
+        "url": "https://www.facebook.com/drasaaugti/posts/pfbid02tHASguya2AnAjX3b1S7d3zkcajGr6K4ShfB44cRUiwkivCBSTspZ47KCgJFvw7jml"
+      },
+      {
+        "id": "6",
+        "info": "Tėvų linija - pagalba telefonu tėvams, įtėviams, globėjams. Darbo dienomis nuo 17 iki 21 val., paskambinę nemokamu numeriu 8 800 900 12",
+        "url": "http://svietimogidas.lt/posts/startavo-tevu-linija-profesionaliu-psichologu-konsultacijos-tevams"
+      },
+      {
+        "id": "7",
+        "info": "Švietimo gidas",
+        "url": "https://svietimogidas.lt/posts/nemokami-pozityvios-tevystes-igudziu-uzsiemimai-ir-mokymai-vilniaus-miesto-savivaldybeje"
+      },
+      {
+        "id": "8",
+        "info": "Vaikų psichologijos ir psichoterapijos centras",
+        "url": "https://www.vaikuppc.lt/seminarai-mokymai"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Asmenims, turintiems priklausomybę lošimams, žaidimams",
+    "help": [
+      {
+        "id": "1",
+        "info": "Respublikinis priklausomybės ligų centras",
+        "url": "https://www.rplc.lt/filialai/vilniaus-filialas/"
+      },
+      {
+        "id": "2",
+        "info": "Viešoji Įstaiga Vilniaus Miesto Psichikos Sveikatos Centras",
+        "url": "https://www.vasaros.lt/"
+      },
+      {
+        "id": "3",
+        "info": "Ąžuolyno klinika",
+        "url": "https://azuolynoklinika.lt/"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Asmenims, neturintiems gyvenamosios vietos",
+    "help": [
+      {
+        "id": "1",
+        "info": "Socialinę paramą ir socialines paslaugas teikiančios įstaigos Vilniaus mieste neturintiems gyvenamosios vietos",
+        "url": "https://www.spcentras.lt/aktualu/kitos-socialine-parama-ir-socialines-paslaugas-teikiancios-istaigos-vilniaus-mieste/"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Jaunimo problemos",
+    "help": [
+      {
+        "id": "1",
+        "info": "Pagalba sau",
+        "url": "https://pagalbasau.lt/"
+      },
+      {
+        "id": "2",
+        "info": "Lietuvos npsichologų sąjunga",
+        "url": "http://www.psichologusajunga.lt/index.php?p=684&lng=lt"
+      },
+      {
+        "id": "3",
+        "info": "Ankstyvosios intervencijos programa",
+        "url": "https://www.vilniussveikiau.lt/ankstyvosios-intervencijos-programa-2/"
+      },
+      {
+        "id": "4",
+        "info": "Multidimensinė šeimos terapija",
+        "url": "https://vaikoteises.lt/projektai/multidimensine-seimos-terapija/"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Kompleksinė pagalba šeimai",
+    "help": [
+      {
+        "id": "1",
+        "info": "Viena stotelė",
+        "url": "https://sos-vaikukaimai.lt/veiklos/viena-stotele/"
+      },
+      {
+        "id": "2",
+        "info": "Kompleksinės paslaugos šeimai",
+        "url": "https://kpsvilnius.lt/paslaugos/"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Socialinės išmokos",
+    "help": [
+      {
+        "id": "1",
+        "info": "Socialinių išmokų skyrius",
+        "url": "https://sis.vilnius.lt/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+.card {
+  margin: 0.8vw;
+  padding: 10px;
+  border-radius: 16px;
+  background-color: rgb(156, 216, 252);
+  grid-row-end: span 24;
+  justify-content: center;
+  align-items: center;
+  color: rgb(0, 0, 0);
+  font-size: 1.5rem;
+  border-style: inset;
+  border-color: rgb(0, 0, 0);
+  border-width: 1px;
+  text-align: center;
+}
+
+.tema {
+  overflow-wrap: normal;
+  justify-content: center;
+  text-align: justify;
+}
+
+.cardHovered {
+  display: flex;
+  margin: 0.2vw;
+  padding: 0;
+  border-radius: 16px;
+  background-color: rgb(156, 216, 252);
+  grid-row-end: span 24;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.8rem;
+  color: rgb(0, 0, 0);
+  border-style: inset;
+  border-color: rgb(83, 177, 255);
+  text-align: center;
+}
