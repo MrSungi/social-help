@@ -16,4 +16,13 @@ const App = () => {
   );
 };
 
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 3000;
+}
+
+App.listen(port, function() {
+  console.log("started");
+});
+
 export default App;
