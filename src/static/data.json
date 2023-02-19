@@ -316,12 +316,12 @@
   },
   {
     "id": 14,
-    "text": "Pagalba specialistams",
+    "text": "Skyrybos",
     "help": [
       {
         "id": "1",
-        "info": "Terapinio ugdymo centras APLINK",
-        "url": "https://www.tuc.lt/lt/paslaugos-specialistui/"
+        "info": "Tarpininkavimo paslaugų sąrašas",
+        "url": "TPS"
       }
     ]
   },
@@ -414,7 +414,7 @@
       },
       {
         "id": "2",
-        "info": "Lietuvos npsichologų sąjunga",
+        "info": "Lietuvos psichologų sąjunga",
         "url": "http://www.psichologusajunga.lt/index.php?p=684&lng=lt"
       },
       {

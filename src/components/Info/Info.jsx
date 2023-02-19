@@ -21,6 +21,21 @@ const Info = () => {
     });
   };
 
+  const onButtonClick2 = () => {
+    // using Java Script method to get PDF file
+    fetch("TPS.docx").then((response) => {
+      response.blob().then((blob) => {
+        // Creating new object of PDF file
+        const fileURL = window.URL.createObjectURL(blob);
+        // Setting various property values
+        let alink = document.createElement("a");
+        alink.href = fileURL;
+        alink.download = "TPS.docx";
+        alink.click();
+      });
+    });
+  };
+
   return (
     <div className="Layout">
       <ul style={{ listStyle: "none" }}>
@@ -28,6 +43,10 @@ const Info = () => {
           <li className="card">
             {item.url === "DOCX" ? (
               <div key={item.id} onClick={onButtonClick}>
+                {item.info}
+              </div>
+            ) : item.url === "TPS" ? (
+              <div key={item.id} onClick={onButtonClick2}>
                 {item.info}
               </div>
             ) : (
