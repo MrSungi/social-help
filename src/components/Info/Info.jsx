@@ -27,9 +27,9 @@ const Info = () => {
         {data.map((item, key) => (
           <li className="card">
             {item.url === "DOCX" ? (
-              <a key={item.id} onClick={onButtonClick}>
+              <div key={item.id} onClick={onButtonClick}>
                 {item.info}
-              </a>
+              </div>
             ) : (
               <a key={item.id} href={item.url}>
                 {item.info}
